@@ -1,9 +1,9 @@
 import React from 'react';
-import Header from './components/Header';
-import MainContent from './components/MainContent';
-import Footer from './components/Footer';
-import WelcomeMessage from './components/WelcomeMessage';
-import UserProfile from './components/UserProfile';
+import Header from './Header';
+import MainContent from '../alx-react-app/MainContent';
+import Footer from './Footer';
+import WelcomeMessage from './WelcomeMessage';
+import UserProfile from './UserProfile';
 
 function App() {
   return (
