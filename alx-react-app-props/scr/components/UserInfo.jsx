@@ -1,5 +1,5 @@
 import React from 'react';
-import UserDetails from './components/UserDetails';
+import UserDetails from './UserDetails';
 
 function UserInfo() {
   return <UserDetails />;
